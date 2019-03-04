@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		37154FE2222CBCFE006731A8 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37154FE1222CBCFE006731A8 /* RatingControl.swift */; };
 		3775361422234238005EE5FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3775361322234238005EE5FE /* AppDelegate.swift */; };
 		3775361622234238005EE5FE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3775361522234238005EE5FE /* ViewController.swift */; };
 		3775361922234238005EE5FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3775361722234238005EE5FE /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		37154FE1222CBCFE006731A8 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 		3775361022234238005EE5FE /* iOSTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3775361322234238005EE5FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3775361522234238005EE5FE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				3775361322234238005EE5FE /* AppDelegate.swift */,
 				3775361522234238005EE5FE /* ViewController.swift */,
 				3775361722234238005EE5FE /* Main.storyboard */,
+				37154FE1222CBCFE006731A8 /* RatingControl.swift */,
 				3775361A22234238005EE5FE /* Assets.xcassets */,
 				3775361C22234238005EE5FE /* LaunchScreen.storyboard */,
 				3775361F22234238005EE5FE /* Info.plist */,
@@ -256,6 +259,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3775361622234238005EE5FE /* ViewController.swift in Sources */,
+				37154FE2222CBCFE006731A8 /* RatingControl.swift in Sources */,
 				3775361422234238005EE5FE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
