@@ -13,9 +13,9 @@ You'll need a working MacOS development environment with XCode 10 to use this
 template. You can find instructions to get up and running on the Apple [XCode website](https://developer.apple.com/xcode/).
 
 If you want to use GitLab CI with your own MacOS runners (a requirement since we
-do not currently offer shared MacOS runners), please read through the blog 
-post above which will walk you through a working production configuration using
-this approach. 
+do not currently yet offer shared MacOS runners - follow [infrastructure#5294](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/5294) for
+updates on that front) please read through the blog post above which will walk 
+you through everything you need to get up and running.
 
 ## What's contained in this project
 
