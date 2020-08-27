@@ -9,8 +9,8 @@ This is a template for getting started with iOS development using GitLab and [fa
 
 # Getting started
 
-You'll need a working MacOS development environment with XCode 10 to use this
-template. You can find instructions to get up and running on the Apple [XCode website](https://developer.apple.com/xcode/).
+You'll need a working MacOS development environment with Xcode 10 to use this
+template. You can find instructions to get up and running on the Apple [Xcode website](https://developer.apple.com/xcode/).
 
 If you want to use GitLab CI with your own MacOS runners (a requirement since we
 do not currently yet offer shared MacOS runners - follow [infrastructure#5294](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/5294) for
